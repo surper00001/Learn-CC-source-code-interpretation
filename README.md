@@ -5,6 +5,7 @@
 ## 内容
 
 - [`docs/大模型工具调用与客户端编排.md`](docs/大模型工具调用与客户端编排.md) — 基于本地阅读的 `query.ts`、`claude.ts`、`toolOrchestration.ts`、`permissions.ts` 等整理的说明与流程图。
+- [`docs/ToolSearchTool-深度解析.md`](docs/ToolSearchTool-深度解析.md) — Tool Search / `defer_loading` / `tool_reference`、动态 `filteredTools` 与关键词检索实现导读。
 
 文中出现的 `src/...` 路径均相对于你本地的**上游客户端源码仓库根目录**，本仓库**不包含**完整上游源码，仅保留解读文档。
 
